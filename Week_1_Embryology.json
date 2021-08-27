@@ -58,7 +58,7 @@
     "extendNew": 0,
     "extendRev": 0,
     "media_files": [],
-    "name": "Week 1 - Embryology",
+    "name": "Week_1_Embryology",
     "note_models": [
         {
             "__type__": "NoteModel",
@@ -176,6 +176,16 @@
             "tags": [
                 "hCG"
             ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "When does hCG peak?",
+                "The amount of hCG produced by the syncytiotrophoblast increases over the first few weeks of pregnancy, eventually peaking around 8-10 weeks after implantation (corresponding to 10-12 weeks gestational age), after which it slowly declines again. By that time, the placenta is sufficiently well-developed to take over production of estrogen and progesterone from the corpus luteum, and so the corpus luteum is no longer required."
+            ],
+            "guid": "tx1^cMfdN9",
+            "note_model_uuid": "e4651a97-06e3-11ec-8e87-a0c589bc3fcb",
+            "tags": []
         }
     ]
 }
